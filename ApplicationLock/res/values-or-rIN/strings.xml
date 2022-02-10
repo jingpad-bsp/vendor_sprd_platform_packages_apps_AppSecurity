@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ଆପ୍ଲିକେସନ୍‍ ଲକ୍‍"</string>
+<string name="select_all">"ସବୁଗୁଡ଼ିକ ଲକ୍ କରନ୍ତୁ"</string>
+<string name="no_applications">"କୌଣସି ଆପ୍ ନାହିଁ ।"</string>
+<string name="cancle_select_all">"ସବୁଗୁଡ଼ିକ ଅନଲକ୍ କରନ୍ତୁ"</string>
+<string name="cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="okay">"ଠିକଠାକ"</string>
+<string name="enter_pwd">"ଫିଙ୍ଗର୍‍‍ପ୍ରିଣ୍ଟ୍/ପାସ୍‍‍ୱାର୍ଡ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="identify_finger">"ଦୟାକରି ଆଙ୍ଗୁଠିକୁ ଚିହ୍ନଟ କରନ୍ତୁ"</string>
+<string name="label_fp_auth">"ଫିଙ୍ଗର୍‍‍ପ୍ରିଣ୍ଟ୍ ବୈଧ କରନ୍ତୁ"</string>
+<string name="msg_input_new_password">"ନୂତନ ପାସ୍‍‍ୱାର୍ଡ ଇନ୍‍‍ପୁଟ୍‍ କରନ୍ତୁ"</string>
+<string name="msg_confirm_password">"ପାସ୍‍‍ୱାର୍ଡକୁ ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="pw_warnning">"ଗୋଟିଏ ପାସୱାର୍ଡ଼ ଏଣ୍ଟର୍‌ କରନ୍ତୁ"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="number">%d</xliff:g> ସେକଣ୍ଡ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="msg_pwd_length_invalid">"ପାସ୍‍‍ୱାର୍ଡ ଦୈର୍ଘ୍ୟ 4 ରୁ ଅଧିକ ହେବା ନିହାତି ଆବଶ୍ୟକ, ଦୟାକରି ପୁନର୍ବାର ଇନ୍‍‍ପୁଟ୍‍ କରନ୍ତୁ ।"</string>
+<string name="msg_confirm_password_not_same">"ଦ୍ୱିତୀୟ ଥର ଇନ୍‍‍ପୁଟ୍‍ ହୋଇଥିବା ପାସ୍‍ୱାର୍ଡ ପ୍ରଥମ ପାସ୍‍‍ୱାର୍ଡ ସହ ମିଳୁନାହିଁ"</string>
+<string name="msg_password_is_wrong">"ଇନ୍‍‍ପୁଟ୍‍ ହୋଇଥିବା ପାସ୍‍ୱାର୍ଡ ଭୁଲ୍‍ ଅଟେ"</string>
+<string name="msg_finger_not_match">"ଆଙ୍ଗୁଠି ମିଳୁନାହିଁ, ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="msg_password">"ପାସୱର୍ଡ଼"</string>
+<string name="msg_finger_info_is_error">"ଆଙ୍ଗୁଠି ସୂଚନା କିଛି ନାହିଁ, ଖୋଲା କାର୍ଯ୍ୟକଳାପ ବିଫଳ ହେଲା!"</string>
+<string name="msg_select_app_first">"ଦୟାକରି ପ୍ରଥମେ ଆପ୍ଲିକେସନ୍‍ ଚୟନ କରନ୍ତୁ ।"</string>
+<string name="pref_title_launch_app_info">"ଆପ୍ଲିକେସନ୍‍‍କୁ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="pref_summary_launch_app_name">"ଆପ୍ଲିକେସନ୍‍ ନାମ:"</string>
+<string name="select_application_launchapp">"ଦୟାକରି ଆପ୍ଲିକେସନ୍‍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="pref_title_app_launch_settings">"ଆପ୍ଲିକେସନ୍‍ ଆରମ୍ଭ ସେଟିଂ"</string>
+<string name="pref_title_app_launch">"ଆପ୍ଲିକେସନ୍‍ ଆରମ୍ଭ"</string>
+<string name="pref_summary_app_launch_on">"ଆପ୍ଲିକେସନ୍‍ ଆରମ୍ଭ ଅନ୍‍"</string>
+<string name="pref_summary_app_launch_off">"ଆପ୍ଲିକେସନ୍‍ ଆରମ୍ଭ ଅଫ୍‍"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"အက္ပ္ေသာ့"</string>
+<string name="select_all">"အားလံုး ေသာ့ခတ္ရန္"</string>
+<string name="no_applications">"တင္ေန,ေက်းဇူးျပဳ၍ ခဏေစာင့္ပါ..."</string>
+<string name="cancle_select_all">"အားလံုး ေသာ့ဖြင့္ရန္"</string>
+<string name="cancel">"မလုပ္ပါ"</string>
+<string name="okay">"အိုေက"</string>
+<string name="enter_pwd">"လက္ေဗြရာ/စကားဝွက္ ထည့္ပါ"</string>
+<string name="identify_finger">"ေက်းဇူးျပဳ၍ လက္ေခ်ာင္းကို အသိအမွတ္ျပဳပါ"</string>
+<string name="label_fp_auth">"လက္ေဗြျဖင့္ စိစစ္အတည္ျပဳမႈ"</string>
+<string name="msg_input_new_password">"စကား၀ွက္သစ္ ထည့္ပါ"</string>
+<string name="msg_confirm_password">"စကားဝွက္ကို အတည္ျပဳပါ"</string>
+<string name="pw_warnning">"စကားဝွက္ ထည့္ပါ"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="number">%d</xliff:g> စကၠန္႔အတြင္း ျပန္ၾကိဳးစားၾကည့္ပါ။"</string>
+<string name="msg_pwd_length_invalid">"စကားဝွက္သည္ အနည္းဆံုး ၄ လံုး ပါရွိရမည္"</string>
+<string name="msg_confirm_password_not_same">"ႏွစ္ႀကိမ္ထည့္သြင္းေသာ စကားဝွက္သည္ မကိုက္ညီပါ"</string>
+<string name="msg_password_is_wrong">"ထည့္လုိက္ေသာ စကားဝွက္သည္ မွားေနသည္"</string>
+<string name="msg_finger_not_match">"လက္ေခ်ာင္း မကိုက္ညီပါ၊ ထပ္ႀကိဳးစားေပးပါ။"</string>
+<string name="msg_password">"စကား၀ွက္"</string>
+<string name="msg_wrong_pin">"PIN အမွား"</string>
+<string name="msg_wrong_pattern">"Pattern မွားယြင္းသည္"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> ကို ေသာ့ခတ္ထားသည္"</string>
+<string name="msg_password_too_long">"စကားဝွက္သည္ ဂဏန္းအလံုးေရ <xliff:g id="number" example="17">%d</xliff:g>ထက္ မပိုရပါ."</string>
+<string name="msg_pin_too_long">"PIN သည္ ဂဏန္းအေရအတြက္ <xliff:g id="number" example="17">%d</xliff:g> ထက္ မပိုရပါ."</string>
+<string name="msg_finger_info_is_error">"လက္ေခ်ာင္း အခ်က္အလက္မ်ားသည္ အတည္မျဖစ္ပါ၊ ဖြင့္ေသာလုပ္ေဆာင္မႈ မေအာင္ျမင္ပါ။"</string>
+<string name="msg_select_app_first">"အက္ပ္ကို ဦးစြာ ေရြးခ်ယ္ေပးပါ။"</string>
+<string name="pref_title_launch_app_info">"အပလီေကးရွင္းကို စဖြင့္ပါ"</string>
+<string name="pref_summary_launch_app_name">"အက္ပ္ အမည္- "</string>
+<string name="select_application_launchapp">"အပလီေကးရွင္းကို ေရြးခ်ယ္ေပးပါ"</string>
+<string name="pref_title_app_launch_settings">"အက္ပ္စတင္ေသာ ဆက္တင္"</string>
+<string name="pref_title_app_launch">"အပလီေကးရွင္း စတင္ျခင္း"</string>
+<string name="pref_summary_app_launch_on">"အပလီေကးရွင္း စတင္ျခင္း ဖြင့္ရန္"</string>
+<string name="pref_summary_app_launch_off">"အပလီေကးရွင္း စတင္ျခင္း ပိတ္ရန္"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>ကလုန္း"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"«የመተግበሪያ ቁልፍ»"</string>
+<string name="select_all">"«ሁሉንም ቆልፍ»"</string>
+<string name="no_applications">"እየጫነ ነው፣ እባክዎን ላፍታ ይጠብቁ..."</string>
+<string name="cancle_select_all">"«ሁሉንም ክፈት»"</string>
+<string name="cancel">ሰርዝ</string>
+<string name="okay">እሺ</string>
+<string name="enter_pwd">"«የጣት አሻራ/ይለፍ ቃል ያስገቡ»"</string>
+<string name="identify_finger">"«እባክዎ ጣት ይለዩ»"</string>
+<string name="label_fp_auth">"«የጣት አሻራን ማረጋገጥ»"</string>
+<string name="msg_input_new_password">"«አዲስ የይለፍ ቃል ያስገቡ»"</string>
+<string name="msg_confirm_password">"«የይለፍ ቃል አረጋግጥ»"</string>
+<string name="pw_warnning">"«የይለፍ ቃል ያስገቡ»"</string>
+<string name="fp_too_many_failed_attempts_countdown">"በ<xliff:g id="NUMBER">%d</xliff:g> ሰከንዶች ውስጥ እንደገና ይሞክሩ።"</string>
+<string name="msg_pwd_length_invalid">"«የይለፍ ቃል ርዝመት ቢያንስ 4 መሆን አለበት»"</string>
+<string name="msg_confirm_password_not_same">"«ሁለት ጊዜ የገባ የይለፍ ቃል ወጥ አይደለም»"</string>
+<string name="msg_password_is_wrong">"«የገባው ይለፍ ቃል ስህተት ነው»"</string>
+<string name="msg_finger_not_match">"«ጣት አይዛመድም፣ እባክዎ እንደገና ይሞክሩ።»"</string>
+<string name="msg_password">የይለፍ ቃል</string>
+<string name="msg_wrong_pin">"የተሳሳተ ፒን"</string>
+<string name="msg_wrong_pattern">"የተሳሳተ ስርዓተ ጥለት"</string>
+<string name="msg_app_locked">"«<xliff:g id="STRING">%1$s</xliff:g> ተቆልፏል»"</string>
+<string name="msg_password_too_long">"«የይለፍ ቃል ከ<xliff:g id="number" example="17">%d</xliff:g> ያነሱ ቁምፊዎች መሆን አለበት።»"</string>
+<string name="msg_pin_too_long">"«ፒን ከ<xliff:g id="number" example="17">%d</xliff:g> አኃዞች ያነሰ መሆን አለበት።»"</string>
+<string name="msg_finger_info_is_error">"«የጣት መረጃው አልቦ ነው፣ እንቅስቃሴን መክፈት አልተሳካም!»"</string>
+<string name="msg_select_app_first">"«እባክዎ በመጀመሪያ መተግበሪያ ይምረጡ።»"</string>
+<string name="pref_title_launch_app_info">"«መተግበሪያውን አስጀምር»"</string>
+<string name="pref_summary_launch_app_name">"«የመተግበሪያ ስም፦ »"</string>
+<string name="select_application_launchapp">"«እባክዎ መተግበሪያ ይምረጡ»"</string>
+<string name="pref_title_app_launch_settings">"«የመተግበሪያ ጅምር ቅንብር»"</string>
+<string name="pref_title_app_launch">"«የመተግበሪያ ጅምር»"</string>
+<string name="pref_summary_app_launch_on">"«የመተግበሪያ ጅምር በርቷል»"</string>
+<string name="pref_summary_app_launch_off">"«የመተግበሪያ ጅምር ጠፍቷል»"</string>
+<string name="app_clone_name">"«የ<xliff:g id="STRING">%1$s</xliff:g>ብዜት»"</string>
+</resources>

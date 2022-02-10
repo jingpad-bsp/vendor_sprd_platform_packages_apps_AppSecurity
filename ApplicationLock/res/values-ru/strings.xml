@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Блокировка приложения"</string>
+<string name="select_all">"Заблокировать все"</string>
+<string name="no_applications">"Идет загрузка, подождите..."</string>
+<string name="cancle_select_all">"Разблокировать все"</string>
+<string name="cancel">Отмена</string>
+<string name="okay">"ОК"</string>
+<string name="enter_pwd">"Введите отпечаток пальца/пароль"</string>
+<string name="identify_finger">"Пожалуйста, идентифицируйте палец"</string>
+<string name="label_fp_auth">"Проверка отпечатка пальца"</string>
+<string name="msg_input_new_password">"Введите новый пароль"</string>
+<string name="msg_confirm_password">"Подтвердите пароль"</string>
+<string name="pw_warnning">"Введите пароль"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Повторите попытку через <xliff:g id="NUMBER">%d</xliff:g> сек."</string>
+<string name="msg_pwd_length_invalid">"Пароль должен содержать не менее 4 знаков"</string>
+<string name="msg_confirm_password_not_same">"Дважды введенный пароль не совпадает"</string>
+<string name="msg_password_is_wrong">"Введен неверный пароль"</string>
+<string name="msg_finger_not_match">"Палец не совпадает, повторите попытку."</string>
+<string name="msg_password">"Пароль"</string>
+<string name="msg_wrong_pin">"Неверный PIN-код"</string>
+<string name="msg_wrong_pattern">"Неверный графический ключ"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> заблокировано"</string>
+<string name="msg_password_too_long">"Пароль должен содержать меньше <xliff:g id="number" example="17">%d</xliff:g> символов."</string>
+<string name="msg_pin_too_long">"PIN должен содержать меньше <xliff:g id="number" example="17">%d</xliff:g> цифр."</string>
+<string name="msg_finger_info_is_error">"Нет сведений о пальце, активная операция прервана!"</string>
+<string name="msg_select_app_first">"Пожалуйста, сначала выберите приложение."</string>
+<string name="pref_title_launch_app_info">"Запустить приложение"</string>
+<string name="pref_summary_launch_app_name">"Имя приложения:"</string>
+<string name="select_application_launchapp">"Пожалуйста, выберите приложение"</string>
+<string name="pref_title_app_launch_settings">"Параметры запуска приложения"</string>
+<string name="pref_title_app_launch">"Запуск приложения"</string>
+<string name="pref_summary_app_launch_on">"Запуск приложения ВКЛ"</string>
+<string name="pref_summary_app_launch_off">"Запуск приложения ВЫКЛ"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Клон"</string>
+</resources>

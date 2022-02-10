@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Bloqueo de aplicacións"</string>
+<string name="select_all">"Todo bloqueado"</string>
+<string name="no_applications">Cargando, espere un momento...</string>
+<string name="cancle_select_all">"Todo desbloqueado"</string>
+<string name="cancel">cancelar</string>
+<string name="okay">OK</string>
+<string name="enter_pwd">"Insira unha impresión dixital ou un contrasinal"</string>
+<string name="identify_finger">"Identifique o dedo"</string>
+<string name="label_fp_auth">"Autenticar a impresión dixital"</string>
+<string name="msg_input_new_password">"Introducir o novo contrasinal"</string>
+<string name="msg_confirm_password">"Confirmar contrasinal"</string>
+<string name="pw_warnning">"Introducir contrasinal"</string>
+<string name="fp_too_many_failed_attempts_countdown">Volva a intentalo en <xliff:g id="number">%d</xliff:g> segundos.</string>
+<string name="msg_pwd_length_invalid">"A lonxitude do contrasinal debe ser de 4 polgadas como mínimo"</string>
+<string name="msg_confirm_password_not_same">"O contrasinal introducido dúas veces non é consistente"</string>
+<string name="msg_password_is_wrong">"O contrasinal introducido é incorrecto"</string>
+<string name="msg_finger_not_match">"O dedo non coincide, ténteo de novo."</string>
+<string name="msg_password">Contrasinal</string>
+<string name="msg_wrong_pin">PIN incorrecto</string>
+<string name="msg_wrong_pattern">Patrón incorrecto</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> bloqueouse"</string>
+<string name="msg_password_too_long">O contrasinal debe ter menos de <xliff:g id="number" example="17">%d</xliff:g> de caracteres.</string>
+<string name="msg_pin_too_long">O PIN debe ter menos de <xliff:g id="number" example="17">%d</xliff:g> díxitos.</string>
+<string name="msg_finger_info_is_error">"A información do dedo é nula, erro ao abrir a actividade"</string>
+<string name="msg_select_app_first">"Seleccione unha aplicación primeiro."</string>
+<string name="pref_title_launch_app_info">"Iniciar a aplicación"</string>
+<string name="pref_summary_launch_app_name">"Nome da aplicación: ""</string>
+<string name="select_application_launchapp">"Seleccione unha aplicación"</string>
+<string name="pref_title_app_launch_settings">"Configuración de inicio de aplicacións"</string>
+<string name="pref_title_app_launch">"Inicio de aplicacións"</string>
+<string name="pref_summary_app_launch_on">"Inicio de aplicacións activado"</string>
+<string name="pref_summary_app_launch_off">"Inicio de aplicacións desactivado"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Clonar"</string>
+</resources>

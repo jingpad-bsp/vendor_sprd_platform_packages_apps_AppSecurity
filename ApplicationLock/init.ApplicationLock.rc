@@ -1,0 +1,6 @@
+on post-fs-data
+# add for fingerprint app function
+    mkdir /data/vendor/sprd 0770 system system
+    mkdir /data/vendor/sprd/launchappdata 0770 system system
+    mkdir /data/vendor/sprd/applock 0770 system system
+

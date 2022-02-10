@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Applikeeshiniin Cuffamee jira"</string>
+<string name="select_all">"Hunda cufi"</string>
+<string name="no_applications">"Fe\'amaa jira, maaloo xiqqoo eegi..."</string>
+<string name="cancle_select_all">"Hundaa bani furi"</string>
+<string name="cancel">"Balleessi"</string>
+<string name="okay">"TOLE"</string>
+<string name="enter_pwd">"Mallattoo qubaa Jecha darbii haaraa itti galchi"</string>
+<string name="identify_finger">"Maaloo quuba kee sochoosi."</string>
+<string name="label_fp_auth">"Mallattoo qubaa qoruu"</string>
+<string name="msg_input_new_password">"Jecha darbii haaraa itti galchi"</string>
+<string name="msg_confirm_password">"Paaswoordii dhugoomsi."</string>
+<string name="pw_warnning">"ittiin darba galchi"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Deebiisi yaali seekoondiiwwaan <xliff:g id="number">%d</xliff:g> keessaatti."</string>
+<string name="msg_pwd_length_invalid">"Dheeriinni paaswordii yoo xiqqaate 4 ta\'uu qaba"</string>
+<string name="msg_confirm_password_not_same">"jecha ittiin galaa si\'a lama galchuun kan itti fufudha"</string>
+<string name="msg_password_is_wrong">"Jechi ittiin galaa fayyadamte sirrii miti"</string>
+<string name="msg_finger_not_match">"Mallattoon qubaa wal hingitne, irra deebi\'ii yaali."</string>
+<string name="msg_password">"Paaswoordii"</string>
+<string name="msg_wrong_pin">"PIN dogoggooraa"</string>
+<string name="msg_wrong_pattern">"Akkina dogoggooraa"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> cufamee ture"</string>
+<string name="msg_password_too_long">"Jechi darbii amaloota <xliff:g id="number" example="17">%d</xliff:g> gadi ta’uu qabu."</string>
+<string name="msg_pin_too_long">"PIN amaloota <xliff:g id="number" example="17">%d</xliff:g> gadi ta’uu qabu."</string>
+<string name="msg_finger_info_is_error">"oddeeffannoon qubaa sirriidha, sochiin bani jedhu kufee jira!"</string>
+<string name="msg_select_app_first">"maaloo dursuudhaan appilikeeshinii filadhu."</string>
+<string name="pref_title_launch_app_info">"Applikeeshinii kaayyessi"</string>
+<string name="pref_summary_launch_app_name">"Maqaa appilikeeshiinichaa: "</string>
+<string name="select_application_launchapp">"Maaloo haqu Applikeeshinii filadhu"</string>
+<string name="pref_title_app_launch_settings">"Lakkaawwii hundeessa appilikeeshiinii:"</string>
+<string name="pref_title_app_launch">"Applikeeshinii kaayyessuu"</string>
+<string name="pref_summary_app_launch_on">"Inni Applikeeshinnii kaayeessu banaadha"</string>
+<string name="pref_summary_app_launch_off">"Inni Applikeeshinnii kaayeessu cufaadha"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>bayisuu"</string>
+</resources>

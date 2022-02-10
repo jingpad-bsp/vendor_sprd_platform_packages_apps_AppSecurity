@@ -1,0 +1,3 @@
+persist.vendor.sprd.fp.lockapp u:object_r:vendor_applock_prop:s0
+persist.vendor.sprd.fp.launchapp u:object_r:vendor_applock_prop:s0
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Блокування програм"</string>
+<string name="select_all">"Заблокувати всі"</string>
+<string name="no_applications">"Завантаження, будь ласка, зачекайте хвилину ..."</string>
+<string name="cancle_select_all">"Розблокувати всі"</string>
+<string name="cancel">"    скасувати"</string>
+<string name="okay">OK</string>
+<string name="enter_pwd">"Увійти за допомогою відбитка пальця/пароля"</string>
+<string name="identify_finger">"Пройдіть ідентифікацію за допомогою пальця"</string>
+<string name="label_fp_auth">"Ідентифікація за відбитком пальця"</string>
+<string name="msg_input_new_password">"Уведіть новий пароль"</string>
+<string name="msg_confirm_password">"Підтвердьте пароль"</string>
+<string name="pw_warnning">"Уведіть пароль"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Спробуйте ще через <xliff:g id="NUMBER">%d</xliff:g> сек."</string>
+<string name="msg_pwd_length_invalid">"Довжина пароля: не менше 4 знаків"</string>
+<string name="msg_confirm_password_not_same">"Уведений вдруге пароль не відповідає заданому"</string>
+<string name="msg_password_is_wrong">"Уведений пароль невірний"</string>
+<string name="msg_finger_not_match">"Відбиток пальця не відповідає заданому. Повторіть спробу."</string>
+<string name="msg_password">"Захищено паролем"</string>
+<string name="msg_wrong_pin">"Неправильний PIN-код"</string>
+<string name="msg_wrong_pattern">"Неправильний ключ"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> заблоковано"</string>
+<string name="msg_password_too_long">"Максимальна кількість символів у паролі: <xliff:g id="NUMBER">%d</xliff:g>"</string>
+<string name="msg_pin_too_long">"Максимальна кількість цифр у PIN-коді: <xliff:g id="NUMBER">%d</xliff:g>"</string>
+<string name="msg_finger_info_is_error">"Інформація про відбиток пальця відсутня, помилка під час відкриття."</string>
+<string name="msg_select_app_first">"Спочатку виберіть програму."</string>
+<string name="pref_title_launch_app_info">"Запустити програму"</string>
+<string name="pref_summary_launch_app_name">"Назва програми: "</string>
+<string name="select_application_launchapp">"Виберіть програму"</string>
+<string name="pref_title_app_launch_settings">"Налаштування запуску програми"</string>
+<string name="pref_title_app_launch">"Запуск програми"</string>
+<string name="pref_summary_app_launch_on">"Запуск програми ввімкнено"</string>
+<string name="pref_summary_app_launch_off">"Запуск програми вимкнено"</string>
+<string name="app_clone_name">"Клон <xliff:g id="STRING">%1$s</xliff:g>"</string>
+</resources>

@@ -1,0 +1,4 @@
+# for Fingerprint feature
+type fp_file, file_type, data_file_type;
+type fp_launchapp_file, file_type, data_file_type;
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ॲप लॉक"</string>
+<string name="select_all">"सगळ्यांक कुलूप घाल"</string>
+<string name="no_applications">"ॲपां ना."</string>
+<string name="cancle_select_all">"सगळ्यांचे कुलूप काड"</string>
+<string name="cancel">"रद्द"</string>
+<string name="okay">"बरे"</string>
+<string name="enter_pwd">"बोटांचो ठसो/पासवर्ड घालात"</string>
+<string name="identify_finger">"उपकार करुन बोट वळखात"</string>
+<string name="label_fp_auth">"बोटांचो ठसो प्रमाणीत करात"</string>
+<string name="msg_input_new_password">"नवो पासवर्ड घालात"</string>
+<string name="msg_confirm_password">"पासवर्डाक पुश्टी दियात"</string>
+<string name="pw_warnning">"पासवर्ड घालात"</string>
+<string name="fp_too_many_failed_attempts_countdown">"परतून यत्न करात <xliff:g id="number">%d</xliff:g> सेकंद."</string>
+<string name="msg_pwd_length_invalid">"पासवर्डाची लांगी 4 परस अदीक आसूंक जाय, उपकार करुन परत घालात."</string>
+<string name="msg_confirm_password_not_same">"दोन फावट घाल्लो पासवर्ड सुसंगत ना"</string>
+<string name="msg_password_is_wrong">"घाल्लो पासवर्ड चुकीचो आसा"</string>
+<string name="msg_finger_not_match">"बोट जुळना, उपकार करुन परतून यत्न करात."</string>
+<string name="msg_password">"पासवर्ड"</string>
+<string name="msg_finger_info_is_error">"बोटांची म्हायती व्यर्थ आसा, उक्तो वावर अपेशी!"</string>
+<string name="msg_select_app_first">"उपकार करुन आदी ॲप वेंचात."</string>
+<string name="pref_title_launch_app_info">"ॲप्लिकेशन लॉन्च करात"</string>
+<string name="pref_summary_launch_app_name">"ॲपाचे नांव: "</string>
+<string name="select_application_launchapp">"उपकार करुन ॲप्लिकेशन वेंचात"</string>
+<string name="pref_title_app_launch_settings">"ॲप लॉन्च सेटिंग्स"</string>
+<string name="pref_title_app_launch">"ॲप्लिकेशन लॉन्च"</string>
+<string name="pref_summary_app_launch_on">"ॲप्लिकेशन लॉन्च चालू"</string>
+<string name="pref_summary_app_launch_off">"ॲप्लिकेशन लॉन्च बंद"</string>
+</resources>

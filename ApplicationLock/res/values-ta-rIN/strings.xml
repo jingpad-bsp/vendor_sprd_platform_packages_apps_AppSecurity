@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"செயலி பூட்டு"</string>
+<string name="select_all">"எல்லாம் பூட்டு"</string>
+<string name="no_applications">அப்ளிகேஷன்களில்லை.</string>
+<string name="cancle_select_all">"எல்லாம் திற"</string>
+<string name="cancel">நிராகரி</string>
+<string name="okay">ஓகே</string>
+<string name="enter_pwd">"விரல்ரேகை/கடவுச்சொல் உள்ளிடு"</string>
+<string name="identify_finger">"விரலை அடையாளப்படுத்தவும்"</string>
+<string name="label_fp_auth">"விரல்ரேகை அங்கீகாரம்"</string>
+<string name="msg_input_new_password">"புது கடவுச்சொல்லை உள்ளிடு"</string>
+<string name="msg_confirm_password">"கடவுச்சொல்லை உறுதிசெய்"</string>
+<string name="pw_warnning">"கடவுச்சொல்லை உள்ளிடு"</string>
+<string name="fp_too_many_failed_attempts_countdown"> <xliff:g id="number">%d</xliff:g> நொடிகளில் மீண்டும் முயலவும்.</string>
+<string name="msg_pwd_length_invalid">"கடவுச்சொல் நீளம் 4 -க்கு மேலிருக்க வேண்டும், மீண்டும் உள்ளிடுங்கள்."</string>
+<string name="msg_confirm_password_not_same">"இருமுறை உள்ளிட்ட கடவுச்சொல் ஒரே மாதிரியாக இல்லை"</string>
+<string name="msg_password_is_wrong">"உள்ளிட்ட கடவுச்சொல் தவறானது"</string>
+<string name="msg_finger_not_match">"விரல் பொருந்தவில்லை, மீண்டும் முயற்சிக்கவும்."</string>
+<string name="msg_finger_info_is_error">"விரல் தகவல் காலியாயுள்ளது, செயலைத் திறப்பது தோல்வியுற்றது!"</string>
+<string name="msg_select_app_first">"முதலில் செயலியைத் தேர்வுசெய்யுங்கள்."</string>
+<string name="pref_title_launch_app_info">"செயலியை துவக்குக"</string>
+<string name="pref_summary_launch_app_name">"செயலிப் பெயர்: "</string>
+<string name="select_application_launchapp">"செயலியை தேர்வுசெய்யுங்கள்"</string>
+<string name="pref_title_app_launch_settings">"செயலி துவக்கல் அமைப்பு"</string>
+<string name="pref_title_app_launch">"செயலி துவக்கம்"</string>
+<string name="pref_summary_app_launch_on">"செயலி துவக்கம் ஆன்"</string>
+<string name="pref_summary_app_launch_off">"செயலி துவக்கம் ஆஃப்"</string>
+<string name="msg_password">கடவுச்சொல்</string>
+<string name="msg_wrong_pin">"தவறான PIN"</string>
+<string name="msg_wrong_pattern">"தவறான மாதிரி"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> பூட்டப்பட்டுள்ளது"</string>
+<string name="msg_password_too_long">கடவுச்சொல்<xliff:g id="number" example="17">%d</xliff:g> எழுத்துக்களைக் காட்டிலும் குறைவானதாக இருக்க வேண்டும்.</string>
+<string name="msg_pin_too_long"> பின் <xliff:g id="number" example="17">%d</xliff:g> இலக்கங்களுக்கும் குறைவானதாக இருக்க வேண்டும்.</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>க்ளோன்"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Penguncian aplikasi"</string>
+<string name="select_all">"Kunci semua"</string>
+<string name="no_applications">"Loading, silakan tunggu sebentar…"</string>
+<string name="cancle_select_all">"Buka semua"</string>
+<string name="cancel">"Batal"</string>
+<string name="okay">"OK"</string>
+<string name="enter_pwd">"Masukkan sidik jari/kata sandi"</string>
+<string name="identify_finger">"Harap identifikasi jari"</string>
+<string name="label_fp_auth">"Otentikasi Sidik Jari"</string>
+<string name="msg_input_new_password">"Masukkan kata sandi baru"</string>
+<string name="msg_confirm_password">"Konfirmasi kata sandi"</string>
+<string name="pw_warnning">"Masukkan kata sandi"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Coba lagi dalam <xliff:g id="NUMBER">%d</xliff:g> detik."</string>
+<string name="msg_pwd_length_invalid">"Panjang kata sandi minimal harus 4 karakter"</string>
+<string name="msg_confirm_password_not_same">"Kata sandi kedua yang dimasukkan tidak konsisten"</string>
+<string name="msg_password_is_wrong">"Kata sandi yang dimasukkan salah"</string>
+<string name="msg_finger_not_match">"Jari tidak cocok, coba lagi."</string>
+<string name="msg_password">"Sandi"</string>
+<string name="msg_wrong_pin">"PIN Salah"</string>
+<string name="msg_wrong_pattern">"Pola Salah"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> telah dikunci"</string>
+<string name="msg_password_too_long">"Kata sandi harus lebih pendek dari <xliff:g id="number" example="17">%d</xliff:g> karakter."</string>
+<string name="msg_pin_too_long">"PIN harus lebih pendek dari <xliff:g id="number" example="17">%d</xliff:g> digit."</string>
+<string name="msg_finger_info_is_error">"Info jari tidak ada, gagal membuka aktivitas!"</string>
+<string name="msg_select_app_first">"Pilih APP lebih dulu."</string>
+<string name="pref_title_launch_app_info">"Luncurkan aplikasi"</string>
+<string name="pref_summary_launch_app_name">"Nama Aplikasi: "</string>
+<string name="select_application_launchapp">"Harap pilih aplikasi"</string>
+<string name="pref_title_app_launch_settings">"Pengaturan peluncuran aplikasi"</string>
+<string name="pref_title_app_launch">"Peluncuran Aplikasi"</string>
+<string name="pref_summary_app_launch_on">"Peluncuran Aplikasi ON"</string>
+<string name="pref_summary_app_launch_off">"Peluncuran Aplikasi OFF"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Kloning"</string>
+</resources>

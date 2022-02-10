@@ -1,0 +1,6 @@
+# for Fingerprint feature
+allow system_app fp_file:dir { create write add_name remove_name read open search getattr rmdir setattr };
+allow system_app fp_file:file { unlink getattr setattr create write open read rename };
+allow system_app fp_launchapp_file:dir { create write add_name remove_name read open search getattr rmdir setattr };
+allow system_app fp_launchapp_file:file { unlink getattr setattr create write open read rename };
+get_prop(system_app, vendor_applock_prop)

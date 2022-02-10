@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"යෙදුම් අගුලුදමීම"</string>
+<string name="select_all">"සියල්ල අගුලු දමන්න"</string>
+<string name="no_applications">"ප්‍රවේශනය කරමින්, කරුනාකර මොහොතක් රැඳී සිටින්න..."</string>
+<string name="cancle_select_all">"සියල්ල අගුලුහරින්න"</string>
+<string name="cancel">"අවලංගු කරන්න"</string>
+<string name="okay">"හරි"</string>
+<string name="enter_pwd">"ඇගිලිසලකුණ/මුරපදය ඇතුලත් අරන්න"</string>
+<string name="identify_finger">"කරුණාකර ඇඟිල්ල හඳුනා ගන්න"</string>
+<string name="label_fp_auth">"ඇඟිලි සලකුණු සත්‍යාපනය කිරීම"</string>
+<string name="msg_input_new_password">"නව මුරපදයක් ඇතුලත් කරන්න"</string>
+<string name="msg_confirm_password">"මුරපදය තහවුරු කරන්න"</string>
+<string name="pw_warnning">"ආදාන මුරපදය"</string>
+<string name="fp_too_many_failed_attempts_countdown">"නැවත උත්සාහ කරන්න <xliff:g id="number">%d</xliff:g> තත්පර."</string>
+<string name="msg_pwd_length_invalid">"මුරපදයේ දිග අඩුතරමේ 4ක් විය යුතුය"</string>
+<string name="msg_confirm_password_not_same">"දෙවරක් ආදාන කල මුරපද ස්ථාවර නැත"</string>
+<string name="msg_password_is_wrong">"ආදාන මුරපදය වැරදියි"</string>
+<string name="msg_finger_not_match">"ඇඟිල්ල නොගැලපේ, කරුණාකර නැවත උත්සාහ කරන්න."</string>
+<string name="msg_password">"මුරපදය"</string>
+<string name="msg_wrong_pin">"වැරදි PIN කේතය"</string>
+<string name="msg_wrong_pattern">"වැරදි මෝස්තරය"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> අගුලු දමා ඇත"</string>
+<string name="msg_password_too_long">"මුරපදයේ දිග වඩා අඩුවිය යුතුය <xliff:g id="number" example="17">%d</xliff:g> අනුසලකුණු."</string>
+<string name="msg_pin_too_long">"PIN දිග වඩා අඩුවිය යුතුය <xliff:g id="number" example="17">%d</xliff:g> අනුසලකුණු."</string>
+<string name="msg_finger_info_is_error">"ඇඟිලි තොරතුරු අභිශූන්‍ය වේ, විවෘත කිරීමේ ක්‍රියාව අසාර්ථක විය!"</string>
+<string name="msg_select_app_first">"කරුණාකර පළමුවෙන් යෙදුමක් තෝරන්න."</string>
+<string name="pref_title_launch_app_info">"යෙදුම දියත් කරන්න"</string>
+<string name="pref_summary_launch_app_name">"යෙදුම් නාමය:"</string>
+<string name="select_application_launchapp">"කරුණාකර යෙදුම තෝරන්න"</string>
+<string name="pref_title_app_launch_settings">"යෙදුම් දියත් කිරීමේ පසුතල"</string>
+<string name="pref_title_app_launch">"යෙදුම දියත් කිරීම"</string>
+<string name="pref_summary_app_launch_on">"යෙදුම දියත් කිරීම සක්‍රියයි"</string>
+<string name="pref_summary_app_launch_off">"යෙදුම දියත් කිරීම අක්‍රියයි"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>ක්ලෝන්"</string>
+</resources>

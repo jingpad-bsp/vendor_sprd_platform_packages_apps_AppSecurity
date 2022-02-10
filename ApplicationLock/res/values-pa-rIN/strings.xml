@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ਐਪ ਲੌਕ"</string>
+<string name="select_all">"ਹਰ ਚੀਜ਼ ਨੂੰ ਲੌਕ ਕਰੋ"</string>
+<string name="no_applications">ਕੋਈ ਅਨੁਪ੍ਰਯੋਗ ਨਹੀਂ।</string>
+<string name="cancle_select_all">"ਹਰ ਚੀਜ਼ ਨੂੰ ਅਨ-ਲੌਕ ਕਰੋ"</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="okay">"ਠੀਕ ਹੈ"</string>
+<string name="enter_pwd">"ਫਿੰਗਰਪ੍ਰਿੰਟ/ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ"</string>
+<string name="identify_finger">"ਉਂਗਲ ਦੀ ਪਛਾਣ ਕਰੋ"</string>
+<string name="label_fp_auth">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਪ੍ਰਮਾਣਿਕ ਹੈ"</string>
+<string name="msg_input_new_password">"ਨਵਾਂ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ"</string>
+<string name="msg_confirm_password">"ਪਾਸਵਰਡ ਤਸਦੀਕ ਕਰੋ"</string>
+<string name="pw_warnning">"ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g> ਸਕਿੰਟਾਂ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+<string name="msg_pwd_length_invalid">"ਪਾਸਵਰਡ 4 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਲੰਬਾ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਦਰਜ ਕਰੋ।"</string>
+<string name="msg_confirm_password_not_same">"ਦੋ ਵਾਰ ਦਰਜ ਕੀਤਾ ਪਾਸਵਰਡ ਬਰਾਬਰ ਨਹੀਂ ਹੈ"</string>
+<string name="msg_password_is_wrong">"ਦਰਜ ਕੀਤਾ ਪਾਸਵਰਡ ਗਲਤ ਹੈ"</string>
+<string name="msg_finger_not_match">"ਉਂਗਲ ਦੇ ਨਿਸ਼ਾਨ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ ਹਨ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+<string name="msg_finger_info_is_error">"ਉਂਗਲ ਦੇ ਨਿਸ਼ਾਨ ਦੀ ਜਾਣਕਾਰੀ ਖਾਲ੍ਹੀ ਹੈ, ਓਪਨ ਗਤੀਵਿਧੀ ਅਸਫਲ ਰਹੀ ਹੈ!"</string>
+<string name="msg_select_app_first">"ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਐਪ ਦੀ ਚੋਣ ਕਰੋ।"</string>
+<string name="pref_title_launch_app_info">"ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਚਾਲੂ ਕਰੋ"</string>
+<string name="pref_summary_launch_app_name">"ਐਪ ਦਾ ਨਾਮ:"</string>
+<string name="select_application_launchapp">"ਕਿਰਪਾ ਕਰਕੇ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਚੋਣ ਕਰੋ"</string>
+<string name="pref_title_app_launch_settings">"ਐਪ ਲਾਂਚ ਸੈਟਿੰਗਾਂ"</string>
+<string name="pref_title_app_launch">"ਐਪਲੀਕੇਸ਼ਨ ਲਾਂਚ"</string>
+<string name="pref_summary_app_launch_on">"ਐਪਲੀਕੇਸ਼ਨ ਲਾਂਚ ਨੂੰ ਚਾਲੂ"</string>
+<string name="pref_summary_app_launch_off">"ਐਪਲੀਕੇਸ਼ਨ ਲਾਂਚ ਨੂੰ ਬੰਦ"</string>
+</resources>

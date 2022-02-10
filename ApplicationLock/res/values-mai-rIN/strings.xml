@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"एपक लाँक"</string>
+<string name="select_all">"सबटा बंद करू"</string>
+<string name="no_applications">"कोनो एप नहिं"</string>
+<string name="cancle_select_all">"सबटा खोलू"</string>
+<string name="cancel">"हंटाऊ।"</string>
+<string name="okay">"ठीक छई"</string>
+<string name="enter_pwd">"आँगुरक निशान/कूट शब्द प्रबिष्ट करू"</string>
+<string name="identify_finger">"कृपाकय आँगुरक पहचान करू"</string>
+<string name="label_fp_auth">"आँगुरक निशान केर प्रमाणित करू"</string>
+<string name="msg_input_new_password">"नव कूट शब्द दिऔक"</string>
+<string name="msg_confirm_password">"कूट शब्दक पुष्टि करू"</string>
+<string name="pw_warnning">"पासवर्ड डालू"</string>
+<string name="fp_too_many_failed_attempts_countdown">"दोसर बेर कोशिश करू <xliff:g id="number">%d</xliff:g> सेकेंड्स"</string>
+<string name="msg_pwd_length_invalid">"कूट शब्दक लम्बाइ निश्चित रुपसँ 4, सँ अधिक, कृपाकय दोवारा प्रबिष्ट करू."</string>
+<string name="msg_confirm_password_not_same">"दुइ बेरि प्रबिष्ट कयल गेल कूट शब्द एक समान नहि अछि"</string>
+<string name="msg_password_is_wrong">"प्रबिष्ट कयल गेल कूट शब्द गलत अछि"</string>
+<string name="msg_finger_not_match">"आँगुर नहि मिलैत अछि, कृपाकय पुन:प्रयास करू."</string>
+<string name="msg_password">"पासवर्ड"</string>
+<string name="msg_finger_info_is_error">"आँगुरक जानकारी नगन्य अछि, क्रियाकलाप खोलब असफल भेल!"</string>
+<string name="msg_select_app_first">"कृपाकय पहिने APP केर चयन करू."</string>
+<string name="pref_title_launch_app_info">"आवेदन चलाऊ"</string>
+<string name="pref_summary_launch_app_name">"एपक नाम:"</string>
+<string name="select_application_launchapp">"कृपाकय आवेदनक चयन करू"</string>
+<string name="pref_title_app_launch_settings">"एप आरम्भक स्थापना"</string>
+<string name="pref_title_app_launch">"आवेदनक आरम्भ"</string>
+<string name="pref_summary_app_launch_on">"आवेदन आरम्भ शुरु अछि"</string>
+<string name="pref_summary_app_launch_off">"आवेदन आरम्भ बन्द अछि"</string>
+</resources>

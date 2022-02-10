@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Blocatge d\'aplicacions"</string>
+<string name="select_all">"Bloqueja-ho tot"</string>
+<string name="no_applications">"S\'està carregant, espereu…"</string>
+<string name="cancle_select_all">"Desbloqueja-ho tot"</string>
+<string name="cancel">"Cancel·la"</string>
+<string name="okay">"D\'acord"</string>
+<string name="enter_pwd">"Introduïu empremta digital o contrasenya"</string>
+<string name="identify_finger">"Identifiqueu el dit"</string>
+<string name="label_fp_auth">"Autenticació d\'empremta digital"</string>
+<string name="msg_input_new_password">"Introduïu la contrasenya nova"</string>
+<string name="msg_confirm_password">"Confirma la contrasenya:"</string>
+<string name="pw_warnning">"Introduir la contrasenya"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Torneu-ho a provar d\'aquí a <xliff:g id="NUMBER">%d</xliff:g> segons."</string>
+<string name="msg_pwd_length_invalid">"La contrasenya ha de tenir almenys 4 caràcters"</string>
+<string name="msg_confirm_password_not_same">"Les dues contrasenyes no coincideixen"</string>
+<string name="msg_password_is_wrong">"La contrasenya introduïda és incorrecta"</string>
+<string name="msg_finger_not_match">"El dit no coincideix, torneu-ho a provar."</string>
+<string name="msg_password">"Contrasenya"</string>
+<string name="msg_wrong_pin">"PIN incorrecte"</string>
+<string name="msg_wrong_pattern">"Patró incorrecte"</string>
+<string name="msg_app_locked">"S\’ha blocat <xliff:g id="STRING">%1$s</xliff:g>"</string>
+<string name="msg_password_too_long">"La contrasenya ha de tenir menys de <xliff:g id="number" example="17">%d</xliff:g> caràcters."</string>
+<string name="msg_pin_too_long">"El codi PIN ha de tenir menys de <xliff:g id="number" example="17">%d</xliff:g> dígits."</string>
+<string name="msg_finger_info_is_error">"La informació del dit és nul·la, l\'activitat oberta ha fallat."</string>
+<string name="msg_select_app_first">"Seleccioneu l\'aplicació primer."</string>
+<string name="pref_title_launch_app_info">"Inicieu l\'aplicació"</string>
+<string name="pref_summary_launch_app_name">"Nom de l\'aplicació:"</string>
+<string name="select_application_launchapp">"Seleccioneu una aplicació"</string>
+<string name="pref_title_app_launch_settings">"Configuració d\'execució de l\'aplicació"</string>
+<string name="pref_title_app_launch">"Execució de l\'aplicació"</string>
+<string name="pref_summary_app_launch_on">"Execució de l\'aplicació ACTIVADA"</string>
+<string name="pref_summary_app_launch_off">"Execució de l\'aplicació DESACTIVADA"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Clon"</string>
+</resources>

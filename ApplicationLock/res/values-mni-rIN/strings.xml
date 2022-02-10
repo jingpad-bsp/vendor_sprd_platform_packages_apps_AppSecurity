@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"এপ লোক"</string>
+<string name="select_all">"লোইনমক লোক তৌ"</string>
+<string name="no_applications">"এপশীং লৈতে."</string>
+<string name="cancle_select_all">"লোইনমক অনলোক তৌ"</string>
+<string name="cancel">"ককথৎলু"</string>
+<string name="okay">"ওকে"</string>
+<string name="enter_pwd">"খুৎশা মমি/পাসৱার্দ মেনশিল্লু"</string>
+<string name="identify_finger">"খুৎশা মশক তাকপিয়ু"</string>
+<string name="label_fp_auth">"খুৎশা মমি চুম্ব্রা তাকপা"</string>
+<string name="msg_input_new_password">"অনৌবা পাসৱার্দ ইনপুত তৌ"</string>
+<string name="msg_confirm_password">"পাসৱার্দ কনফার্ম তৌ"</string>
+<string name="pw_warnning">"পাসৱার্দ অমা মেনশিল্লু"</string>
+<string name="fp_too_many_failed_attempts_countdown">"হন্না হোৎনৌ দা <xliff:g id="number">%d</xliff:g> সেকেন্দশীং."</string>
+<string name="msg_pwd_length_invalid">"পাসৱার্দকি অশাংবা 4 দগী হেনগদবনি, হন্না ইনপুত তৌবিয়ু."</string>
+<string name="msg_confirm_password_not_same">"অনিরক ইনপুত তৌখিবা পাসৱার্দ অদু অমগা অমগা মান্নদে"</string>
+<string name="msg_password_is_wrong">"ইনপুত পাসৱার্দ অদু লাল্লি"</string>
+<string name="msg_finger_not_match">"খুৎশা চানদে, হন্না হোৎনবিয়ু."</string>
+<string name="msg_password">"পাসৱার্দ"</string>
+<string name="msg_finger_info_is_error">"খুৎশাগী পাও অদু নল ওই, হাংদোকপগী এক্তিভিতি মায় পাক্তে!"</string>
+<string name="msg_select_app_first">"APP অহানবদা খনবিয়ু."</string>
+<string name="pref_title_launch_app_info">"এপ্লিকেশন অদু লোনচ তৌ"</string>
+<string name="pref_summary_launch_app_name">"এপ মমিং: "</string>
+<string name="select_application_launchapp">"এপ্লিকেশন খনবিয়ু"</string>
+<string name="pref_title_app_launch_settings">"এপ লোনচ সেটিং"</string>
+<string name="pref_title_app_launch">"এপ্লিকেশন লোনচ"</string>
+<string name="pref_summary_app_launch_on">"এপ্লিকেশন লোনচ ওন"</string>
+<string name="pref_summary_app_launch_off">"এপ্লিকেশন লোনচ ওফ"</string>
+</resources>

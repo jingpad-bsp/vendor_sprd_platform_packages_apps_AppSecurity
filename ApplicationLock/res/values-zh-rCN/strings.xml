@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"应用锁"</string>
+    <string name="select_all">"全部加锁"</string>
+    <string name="no_applications">"正在加载，请稍候..."</string>
+    <string name="cancle_select_all">"全部解锁"</string>
+    <string name="cancel">"取消"</string>
+    <string name="okay">"确定"</string>
+    <string name="enter_pwd">"请输入指纹或密码"</string>
+    <string name="identify_finger">"请验证您的指纹"</string>
+    <string name="label_fp_auth">"指纹认证"</string>
+    <string name="msg_input_new_password">"请输入新密码"</string>
+    <string name="msg_confirm_password">"请确认密码"</string>
+    <string name="pw_warnning">"请输入密码"</string>
+    <string name="fp_too_many_failed_attempts_countdown">"请在 <xliff:g id="number">%d</xliff:g> 秒后重试"</string>
+    <string name="msg_pwd_length_invalid">"密码长度至少4位"</string>
+    <string name="msg_confirm_password_not_same">"两次输入的密码不一致"</string>
+    <string name="msg_password_is_wrong">"密码有误"</string>
+    <string name="msg_finger_not_match">"指纹不匹配，请重试"</string>
+    <string name="msg_password">"密码"</string>
+    <string name="msg_wrong_pin">"PIN码有误"</string>
+    <string name="msg_wrong_pattern">"图案错误"</string>
+    <string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g>已加锁"</string>
+    <string name="msg_password_too_long">"密码必须少于<xliff:g id="NUMBER">%d</xliff:g>个字符。"</string>
+    <string name="msg_pin_too_long">"PIN码必须少于<xliff:g id="NUMBER">%d</xliff:g>位数。"</string>
+
+    <!-- Added for finger app launch begin -->
+    <string name="msg_finger_info_is_error">"指纹信息为空，打开应用失败!"</string>
+    <string name="msg_select_app_first">"请选择应用程序"</string>
+    <string name="pref_title_launch_app_info">"启动应用程序"</string>
+    <string name="pref_summary_launch_app_name">"应用名称: "</string>
+    <string name="select_application_launchapp">"请选择应用"</string>
+    <string name="pref_title_app_launch_settings">"应用程序启动设置"</string>
+    <string name="pref_title_app_launch">"应用程序启动"</string>
+    <string name="pref_summary_app_launch_on">"应用程序启动打开"</string>
+    <string name="pref_summary_app_launch_off">"应用程序启动关闭"</string>
+    <!-- Added for finger app launch end -->
+    <string name="app_clone_name"><xliff:g id="STRING">%1$s</xliff:g>分身</string>
+</resources>

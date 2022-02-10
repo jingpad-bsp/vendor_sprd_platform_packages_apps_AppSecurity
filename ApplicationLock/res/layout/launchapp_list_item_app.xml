@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10sp" >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/applaunch_cell_image_width"
+        android:layout_height="@dimen/applaunch_cell_image_height"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:focusable="false"
+        android:footerDividersEnabled="false"
+        android:contentDescription="@null"/>
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="?android:attr/listPreferredItemHeight"
+        android:layout_alignParentEnd="true"
+        android:gravity="center_vertical"
+        android:layout_toEndOf="@id/imageView"
+        android:checkMark="?android:attr/listChoiceIndicatorSingle"
+        android:padding="6dip"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@android:color/black" />
+
+</RelativeLayout>

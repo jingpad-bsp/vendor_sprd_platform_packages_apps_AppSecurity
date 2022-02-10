@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Uygulama kilidi"</string>
+<string name="select_all">"Tümünü kilitle"</string>
+<string name="no_applications">"Yükleniyor, lütfen biraz bekleyin..."</string>
+<string name="cancle_select_all">"Tümünün kilidini aç"</string>
+<string name="cancel">İptal</string>
+<string name="okay">Tamam</string>
+<string name="enter_pwd">"Parmak izi/parola gir"</string>
+<string name="identify_finger">"Lütfen parmak izini tanımlayın"</string>
+<string name="label_fp_auth">"Parmak İzi Kimlik Doğrulama"</string>
+<string name="msg_input_new_password">"Yeni parola girin"</string>
+<string name="msg_confirm_password">"Parol onaylayın"</string>
+<string name="pw_warnning">"Parola girin"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g> saniye içinde yeniden deneyin."</string>
+<string name="msg_pwd_length_invalid">"Parola uzunluğu en az 4 hane olmalı"</string>
+<string name="msg_confirm_password_not_same">"Girilen iki parola eşleşmiyor"</string>
+<string name="msg_password_is_wrong">"Girilen parola yanlış"</string>
+<string name="msg_finger_not_match">"Parmak izi eşleşmiyor, lütfen tekrar deneyin."</string>
+<string name="msg_password">"Şifre"</string>
+<string name="msg_wrong_pin">"Yanlış PIN"</string>
+<string name="msg_wrong_pattern">"Yanlış Desen"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> kilitlendi"</string>
+<string name="msg_password_too_long">"Parola <xliff:g id="number" example="17">%d</xliff:g> karakterden daha az olmalı."</string>
+<string name="msg_pin_too_long">"PIN <xliff:g id="number" example="17">%d</xliff:g> haneden daha az olmalı."</string>
+<string name="msg_finger_info_is_error">"Parmak izi bilgisi boş, açma eylemi başarısız oldu!"</string>
+<string name="msg_select_app_first">"Lütfen önce UYGULAMA seçin."</string>
+<string name="pref_title_launch_app_info">"Uygulama başlat"</string>
+<string name="pref_summary_launch_app_name">"Uygulama Adı: "</string>
+<string name="select_application_launchapp">"Lütfen uygulama seçin"</string>
+<string name="pref_title_app_launch_settings">"Uygulama başlatma ayarı"</string>
+<string name="pref_title_app_launch">"Uygulama Başlatma"</string>
+<string name="pref_summary_app_launch_on">"Uygulama Başlatma AÇIK"</string>
+<string name="pref_summary_app_launch_off">"Uygulama Başlatma KAPALI"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Kopya"</string>
+</resources>

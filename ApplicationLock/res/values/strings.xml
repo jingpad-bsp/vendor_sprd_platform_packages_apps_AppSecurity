@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">App lock</string>
+    <string name="select_all">Lock all</string>
+    <string name="no_applications">"Loading, please wait a moment..."</string>
+    <string name="cancle_select_all">"Unlock all"</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">OK</string>
+    <string name="enter_pwd">Enter fingerprint/password</string>
+    <string name="identify_finger">Please identify finger</string>
+    <string name="label_fp_auth">"Fingerprint Authenticate"</string>
+    <string name="msg_input_new_password">"Input new password"</string>
+    <string name="msg_confirm_password">"Confirm password"</string>
+    <string name="pw_warnning">"Input password"</string>
+    <string name="fp_too_many_failed_attempts_countdown">Try again in <xliff:g id="number">%d</xliff:g> seconds.</string>
+    <string name="msg_pwd_length_invalid">"Password length must be at least 4"</string>
+    <string name="msg_confirm_password_not_same">"Twice input password is not consistent"</string>
+    <string name="msg_password_is_wrong">"The input password is wrong"</string>
+    <string name="msg_finger_not_match">"Finger not match, please try again."</string>
+    <string name="msg_password">"Password"</string>
+    <string name="msg_wrong_pin">"Wrong PIN"</string>
+    <string name="msg_wrong_pattern">"Wrong Pattern"</string>
+    <string name="msg_app_locked"><xliff:g id="STRING">%1$s</xliff:g> has been locked</string>
+    <string name="msg_password_too_long">Password must be fewer than <xliff:g id="number" example="17">%d</xliff:g> characters.</string>
+    <string name="msg_pin_too_long">PIN must be fewer than <xliff:g id="number" example="17">%d</xliff:g> digits.</string>
+
+    <!-- Added for finger app launch begin -->
+    <string name="msg_finger_info_is_error">"The finger info is null, open activity failed!"</string>
+    <string name="msg_select_app_first">"Please select APP first."</string>
+    <string name="pref_title_launch_app_info">"Launch the application"</string>
+    <string name="pref_summary_launch_app_name">"App Name: "</string>
+    <string name="select_application_launchapp">"Please select application"</string>
+    <string name="pref_title_app_launch_settings">"App launch setting"</string>
+    <string name="pref_title_app_launch">"Application Launch"</string>
+    <string name="pref_summary_app_launch_on">"Application Launch ON"</string>
+    <string name="pref_summary_app_launch_off">"Application Launch OFF"</string>
+    <!-- Added for finger app launch end -->
+    <string name="app_clone_name"><xliff:g id="STRING">%1$s</xliff:g>Clone</string>
+</resources>

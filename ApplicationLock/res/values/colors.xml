@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lock_pattern_background">#00000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="warning">#ff5621</color>
+    <color name="lock_app_color">#ff37474f</color>
+    <color name="accent_light">#ff3367d6</color>
+    <color name="lock_pattern_view_regular_color_light">@color/lock_app_color</color>
+    <color name="lock_pattern_view_success_color_light">@color/accent_light</color>
+    <color name="lock_pattern_view_error_color_light">@color/warning</color>
+</resources>

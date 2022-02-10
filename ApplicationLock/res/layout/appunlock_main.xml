@@ -1,0 +1,113 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FullscreenActivity" >
+
+        <LinearLayout
+            android:gravity="center|top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center_horizontal"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            tools:ignore="UselessParent" >
+            <TextView
+                style="@android:style/TextAppearance.Material.Headline"
+                android:id="@+id/fullscreen_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center|top"
+                android:text="@string/enter_pwd"
+                android:textColor="?android:attr/colorAccent"/>
+        </LinearLayout>
+
+    <!--
+         This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows.
+    -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true" >
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="@style/SecurityPreferenceButtonContainer"
+            android:layout_gravity="bottom|center_horizontal"
+            android:orientation="horizontal">
+            <Button android:id="@+id/button_cancel"
+                style="@style/SecurityPreferenceButton"
+                android:text="@string/cancel"/>
+            <Button android:id="@+id/button_ok"
+                style="@style/SecurityPreferenceButton"
+                android:text="@string/okay"/>
+        </LinearLayout>
+	    <LinearLayout
+	        android:id="@+id/onebuttonlayout"
+	        style="@style/SecurityPreferenceButtonContainer"
+	        android:layout_gravity="bottom|center_horizontal"
+	        android:orientation="horizontal">
+	        <Button android:id="@+id/button_cancel_only"
+	            style="@style/SecurityPreferenceOneButton"
+	            android:text="@string/cancel"/>
+	    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout_fingerprint_icon"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center_horizontal"
+            android:layout_marginTop="90dp"
+            android:orientation="vertical"
+            tools:ignore="UselessParent" >
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dip" />
+            <ImageView
+                android:id="@+id/iv_fingerprintIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/ic_fingerprint"
+                android:contentDescription="@string/identify_finger" />
+
+            <TextView
+                android:id="@+id/label_fp_auth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/label_fp_auth"
+                android:textColor="?android:attr/colorAccent"
+                android:textSize="16sp" />
+            <include
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/label_fp_auth"
+                android:layout_gravity="top"
+                layout="@layout/applock_kg_message_area" />
+            <com.android.internal.widget.LockPatternView
+                android:id="@+id/lockPattern"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="60dp" />
+            <EditText
+                android:id="@+id/password_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginEnd="30dp"
+                android:textSize="24sp"
+                android:ems="10"
+                android:inputType="textPassword"
+                android:imeOptions="actionNext"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="60dp"
+                style="@style/TextAppearance.PasswordEntry"/>
+        </LinearLayout>
+
+    </FrameLayout>
+
+</FrameLayout>

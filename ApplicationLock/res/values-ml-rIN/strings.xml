@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ആപ് ലോക്ക്"</string>
+<string name="select_all">"ലോക്ക് ആള്‍"</string>
+<string name="no_applications">"അപ്ലിക്കേഷനുകള്‍ ഒന്നും ഇല്ല."</string>
+<string name="cancle_select_all">"അണ്‍ലോക്ക് ആള്‍"</string>
+<string name="cancel">"റദ്ദാക്കുക"</string>
+<string name="okay">"ശരി"</string>
+<string name="enter_pwd">"ഫിംഗര്‍ പ്രിന്‍റ്/പാസ്സ് വേഡ് എന്‍റര്‍ ചെയ്യുക"</string>
+<string name="identify_finger">"ദയവായി ഫിംഗര്‍ ഐഡന്‍റിഫൈ ചെയ്യുക"</string>
+<string name="label_fp_auth">"വിരലടയാളം ഓതൻറിക്കേറ്റ് ചെയ്യുക"</string>
+<string name="msg_input_new_password">"പുതിയ പാസ്സ്വേഡ് ഇൻപുട്ട് ചെയ്യുക"</string>
+<string name="msg_confirm_password">"പാസ്സ്വേഡ് സ്ഥിരീകരിക്കുക"</string>
+<string name="pw_warnning">"പാസ്സ്വേഡ് ഇൻപുട്ട് ചെയ്യുക"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g> സെക്കൻഡിനുള്ളിൽ വീണ്ടും ശ്രമിക്കുക."</string>
+<string name="msg_pwd_length_invalid">"പാസ്സ് വേഡിന്‍റെ നീളം 4 ല്‍ കൂടിയിരിക്കണം. ദയവായി വീണ്ടും ഇന്‍പുട്ട് ചെയ്യുക."</string>
+<string name="msg_confirm_password_not_same">"രണ്ടാമത് ഇന്‍പുട്ട് ചെയ്ത പാസ്സ് വേഡും ശരിയല്ല"</string>
+<string name="msg_password_is_wrong">"ഇന്‍പുട്ട് പാസ്സ് വേഡ് തെറ്റാണ്"</string>
+<string name="msg_finger_not_match">"ഫിംഗര്‍ പ്രിന്‍റ് മാച്ച് ചെയ്യുന്നില്ല, ദയവായി വീണ്ടും ശ്രമിക്കുക."</string>
+<string name="msg_finger_info_is_error">"ഫിംഗര്‍ വിവരം തെറ്റാണ്, ഓപ്പണ്‍ ചെയ്യുന്നതിനുള്ള ശ്രമം പരാജയപ്പെട്ടു!"</string>
+<string name="msg_select_app_first">"ദയവായി ആദ്യം ആപ്ളിക്കേഷന്‍ തെരഞ്ഞെടുക്കുക."</string>
+<string name="pref_title_launch_app_info">"ആപ്ളിക്കേഷന്‍ ലോഞ്ച് ചെയ്യുക"</string>
+<string name="pref_summary_launch_app_name">"ആപ്പ് നെയിം:"</string>
+<string name="select_application_launchapp">"ദയവായി ആപ്ളിക്കേഷന്‍ തെരഞ്ഞെടുക്കുക"</string>
+<string name="pref_title_app_launch_settings">"ആപ്പ് ലോഞ്ച് സെറ്റിംഗ്"</string>
+<string name="pref_title_app_launch">"ആപ്ലിക്കേഷൻ ലോഞ്ച്"</string>
+<string name="pref_summary_app_launch_on">"ആപ്ലിക്കേഷൻ ലോഞ്ച് ഓൺ"</string>
+<string name="pref_summary_app_launch_off">"ആപ്ലിക്കേഷൻ ലോഞ്ച് ഓഫ്"</string>
+</resources>

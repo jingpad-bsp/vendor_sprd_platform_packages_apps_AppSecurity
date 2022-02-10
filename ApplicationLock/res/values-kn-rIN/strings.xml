@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್"</string>
+<string name="select_all">"ಎಲ್ಲಾ ಲಾಕ್"</string>
+<string name="no_applications">"ಅಪ್ಲಿಕೇಶನ್ ಗಳು ಇಲ್ಲ"</string>
+<string name="cancle_select_all">"ಎಲ್ಲವನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ"</string>
+<string name="cancel">"ರದ್ದು"</string>
+<string name="okay">"ಸರಿ"</string>
+<string name="enter_pwd">"ಫಿಂಗರ್ಪ್ರಿಂಟ್ / ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ"</string>
+<string name="identify_finger">"ದಯವಿಟ್ಟು ಬೆರಳನ್ನು ಗುರುತಿಸಿ"</string>
+<string name="label_fp_auth">"ಫಿಂಗರ್ಪ್ರಿಂಟ್ ದೃಢೀಕರಣ"</string>
+<string name="msg_input_new_password">"ಇನ್ಪುಟ್ ನ್ಯೂ ಪಾಸ್ವರ್ಡ್"</string>
+<string name="msg_confirm_password">"ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ"</string>
+<string name="pw_warnning">"ಇನ್ಪುಟ್ ಪಾಸ್ವರ್ಡ್"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g> ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="msg_pwd_length_invalid">"ಪಾಸ್ವರ್ಡ್ ಉದ್ದವು 4 ಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಇರಬೇಕು, ದಯವಿಟ್ಟು ಮತ್ತೆ ಇನ್ಪುಟ್ ಮಾಡಿ."</string>
+<string name="msg_confirm_password_not_same">"ಎರಡು ಇನ್ಪುಟ್ ಪಾಸ್ವರ್ಡ್ ಸ್ಥಿರವಾಗಿಲ್ಲ"</string>
+<string name="msg_password_is_wrong">"ಇನ್ಪುಟ್ ಪಾಸ್ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ"</string>
+<string name="msg_finger_not_match">"ಫಿಂಗರ್ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="msg_finger_info_is_error">"ಬೆರಳು ಮಾಹಿತಿಯು ಶೂನ್ಯವಾಗಿದೆ, ತೆರೆಯುವ ಚಟುವಟಿಕೆ ವಿಫಲವಾಗಿದೆ!"</string>
+<string name="msg_select_app_first">"ದಯವಿಟ್ಟು ಮೊದಲು APP ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."</string>
+<string name="pref_title_launch_app_info">"ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿ"</string>
+<string name="pref_summary_launch_app_name">"APP ಹೆಸರು:"</string>
+<string name="select_application_launchapp">"ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="pref_title_app_launch_settings">"APP ಲಾಂಚ್ ಸೆಟ್ಟಿಂಗ್"</string>
+<string name="pref_title_app_launch">"ಅಪ್ಲಿಕೇಶನ್ ಲಾಂಚ್"</string>
+<string name="pref_summary_app_launch_on">"ಅಪ್ಲಿಕೇಶನ್ ಲಾಂಚ್ ಆನ್"</string>
+<string name="pref_summary_app_launch_off">"ಅಪ್ಲಿಕೇಶನ್ ಲಾಂಚ್ ಆಫ್"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"એપ લોક"</string>
+<string name="select_all">"લોક તમામને"</string>
+<string name="no_applications">એપ્લિકેશન નહી.</string>
+<string name="cancle_select_all">"તમામને અનલોક કરો"</string>
+<string name="cancel">"રદ્દ"</string>
+<string name="okay">ઓકે</string>
+<string name="enter_pwd">"ફિંગરપ્રિન્ટ/પાસવર્ડ દાખલ કરો"</string>
+<string name="identify_finger">"કૃપા કરી ફિંગરની ઓળખ કરો"</string>
+<string name="label_fp_auth">"ફિંગરપ્રિન્ટની અધિકૃતી"</string>
+<string name="msg_input_new_password">"નવો પાસપોર્ટ દાખલ કરો"</string>
+<string name="msg_confirm_password">"પાસવર્ડની પૃષ્ટી આપો"</string>
+<string name="pw_warnning">"પાસવર્ડ દાખલ કરો"</string>
+<string name="fp_too_many_failed_attempts_countdown"><xliff:g id="number">%d</xliff:g> સેકન્ડ્ઝમાં ફરીથી પ્રયાસ કરો.</string>
+<string name="msg_pwd_length_invalid">"પાસવર્ડની લંબાઈ 4 કરતા વધારે હોવી જોઈએ,કૃપા કરી ફરી દાખલ કરો"</string>
+<string name="msg_confirm_password_not_same">"બે વખત દાખલ પાસવર્ડ સાતત્ય ધરાવતો નથી"</string>
+<string name="msg_password_is_wrong">"દાખલ કરાયેલો પાસવર્ડ ખોટો છે"</string>
+<string name="msg_finger_not_match">"ફિંગર મેચ થતી નથી, કૃપા કરી ફરી પ્રયાસ કરશો"</string>
+<string name="msg_finger_info_is_error">"ફિંગરને લગતી માહિતી શૂન્ય છે, ખોલવાની પ્રવૃત્તિ નિષ્ફળ ગઈ છે!"</string>
+<string name="msg_select_app_first">"કૃપા કરી સૌ પ્રથમ APP પસંદ કરો."</string>
+<string name="pref_title_launch_app_info">"એપ્લિકેશન શરૂ કરો"</string>
+<string name="pref_summary_launch_app_name">"એપ નું નામઃ""</string>
+<string name="select_application_launchapp">"કૃપા કરી એપ્લિકેશન પસંદ કરો"</string>
+<string name="pref_title_app_launch_settings">"એપ સેટિંગ્સ શરૂ"</string>
+<string name="pref_title_app_launch">"એપ્લિકેશન શરૂ"</string>
+<string name="pref_summary_app_launch_on">"એપ્લિકેશન લોંચ ચાલુ"</string>
+<string name="pref_summary_app_launch_off">"એપ્લિકેશન લોંચ બંધ"</string>
+<string name="msg_password">પાસવર્ડ</string>
+<string name="msg_wrong_pin">"PIN ખોટો"</string>
+<string name="msg_wrong_pattern">"ખોટી પેટર્ન"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g>લોક કરવામાં આવી છે"</string>
+<string name="msg_password_too_long">પાસવર્ડ <xliff:g id="number" example="17">%d</xliff:g>ના કરતા ઓછા અક્ષરોનો હોવો આવશ્યક છે.</string>
+<string name="msg_pin_too_long">PIN <xliff:g id="number" example="17">%d</xliff:g> આંકડાઓ કરતા ઓછો હોવા આવશ્યક છે.</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>ક્લોન"</string>
+</resources>

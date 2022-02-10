@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"एप लक"</string>
+<string name="select_all">"सबैलाई लक गर्नुहोस्"</string>
+<string name="no_applications">"कुनै अनुप्रयोगहरू छैनन्"</string>
+<string name="cancle_select_all">"सबैलाई अनलक गर्नुहोस्"</string>
+<string name="cancel">"रद्द गर्नुहोस्"</string>
+<string name="okay">"ठिक छ"</string>
+<string name="enter_pwd">"औंठाछाप/पासवर्ड प्रविष्ट गर्नुहोस्"</string>
+<string name="identify_finger">"कृपया औंलाको पहिचान गर्नुहोस्"</string>
+<string name="label_fp_auth">"औंठाछाप प्रमाणित गर्ने"</string>
+<string name="msg_input_new_password">"नयाँ पासवर्ड इनपुट गर्नुहोस्"</string>
+<string name="msg_confirm_password">"पासवर्ड निश्चित गर्नुहोस्"</string>
+<string name="pw_warnning">"पासवर्ड इन्पुट गर्नुहोस्"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g>सेकेन्डमा फेरि प्रयास गर्नुहोस्।"</string>
+<string name="msg_pwd_length_invalid">"पासवर्डको लम्बाई 4 भन्दा बढी हुनुपर्छ, कृपया फेरि इन्पुट गर्नुहोस्।"</string>
+<string name="msg_confirm_password_not_same">"दुईपटक इन्पुट गरिएको पासवर्ड समान छैन"</string>
+<string name="msg_password_is_wrong">"इन्पुट गरिएको पासवर्ड गलत छ"</string>
+<string name="msg_finger_not_match">"औंला मिलेन, कृपया फेरि प्रयास गर्नुहोस्।"</string>
+<string name="msg_finger_info_is_error">"औंला जानकारी खाली छ, क्रियाकलाप खोल्न असफल भयो!"</string>
+<string name="msg_select_app_first">"कृपया पहिले एप्लिकेसन चयन गर्नुहोस्।"</string>
+<string name="pref_title_launch_app_info">"एप्लिकेसन सुरुवात गर्नुहोस्"</string>
+<string name="pref_summary_launch_app_name">"एप्लिकेसनको नाम: "</string>
+<string name="select_application_launchapp">"कृपया एप्लिकेसन चयन गर्नुहोस्"</string>
+<string name="pref_title_app_launch_settings">"एप्लिकेसन सुरुवात सेटिङ"</string>
+<string name="pref_title_app_launch">"एप्लिकेसन सुरुवात"</string>
+<string name="pref_summary_app_launch_on">"एप्लिकेसन सुरुवात अन छ"</string>
+<string name="pref_summary_app_launch_off">"एप्लिकेसन सुरुवात अफ छ"</string>
+<string name="msg_password">"पासवर्ड"</string>
+<string name="msg_wrong_pin">"गलत PIN"</string>
+<string name="msg_wrong_pattern">"गलत ढाँचा"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> लाई लक गरिएको छ"</string>
+<string name="msg_password_too_long">"पासवर्ड अनिवार्य रूपमा <xliff:g id="number" example="17">%d</xliff:g> भन्दा कम वर्णको हुनुपर्छ।"</string>
+<string name="msg_pin_too_long">"PIN अनिवार्य रूपमा <xliff:g id="number" example="17">%d</xliff:g> भन्दा कम वर्णको हुनुपर्छ।"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g> क्लोन"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Alkalmazás-zárolás"</string>
+<string name="select_all">"Összes zárolása"</string>
+<string name="no_applications">"Betöltés, kérem, várjon..."</string>
+<string name="cancle_select_all">"Összes feloldása"</string>
+<string name="cancel">"Mégse"</string>
+<string name="okay">"OK"</string>
+<string name="enter_pwd">"Ujjlenyomat/jelszó megadása"</string>
+<string name="identify_finger">"Kérjük, azonosítsa ujjlenyomatát"</string>
+<string name="label_fp_auth">"Ujjlenyomat hitelesítése"</string>
+<string name="msg_input_new_password">"Új jelszó megadása"</string>
+<string name="msg_confirm_password">"Jelszó megerősítése:"</string>
+<string name="pw_warnning">"Jelszó bevitele"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Próbálja újra <xliff:g id="NUMBER">%d</xliff:g> másodperc múlva."</string>
+<string name="msg_pwd_length_invalid">"A jelszó hossza legalább 4 karakter kell legyen"</string>
+<string name="msg_confirm_password_not_same">"A kétszer beírt jelszó nem következetes"</string>
+<string name="msg_password_is_wrong">"A beírt jelszó helytelen"</string>
+<string name="msg_finger_not_match">"Az ujjlenyomat nem egyezik, kérjük, próbálja újra."</string>
+<string name="msg_password">"Jelszó"</string>
+<string name="msg_wrong_pin">"Helytelen PIN-kód"</string>
+<string name="msg_wrong_pattern">"Helytelen minta"</string>
+<string name="msg_app_locked">"A(z) <xliff:g id="STRING">%1$s</xliff:g> zárolva van"</string>
+<string name="msg_password_too_long">"A jelszónak rövidebbnek kell lennie <xliff:g id="number" example="17">%d</xliff:g> karakternél."</string>
+<string name="msg_pin_too_long">"A PIN-nek rövidebbnek kell lennie <xliff:g id="number" example="17">%d</xliff:g> számjegynél."</string>
+<string name="msg_finger_info_is_error">"Az ujjlenyomat információ üres, megnyitás sikertelen!"</string>
+<string name="msg_select_app_first">"Kérjük, először válasszon ki egy alkalmazást."</string>
+<string name="pref_title_launch_app_info">"Indítsa el az alkalmazást"</string>
+<string name="pref_summary_launch_app_name">"Alkalmazás neve:"</string>
+<string name="select_application_launchapp">"Kérjük, válassza ki az alkalmazást"</string>
+<string name="pref_title_app_launch_settings">"Alkalmazás indítási beállításai"</string>
+<string name="pref_title_app_launch">"Alkalmazás elindítása"</string>
+<string name="pref_summary_app_launch_on">"Alkalmazás indítása BE"</string>
+<string name="pref_summary_app_launch_off">"Alkalmazás indítása KI"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Klón"</string>
+</resources>

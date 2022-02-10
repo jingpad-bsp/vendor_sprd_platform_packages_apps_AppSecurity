@@ -1,0 +1,3 @@
+# for Fingerprint feature
+/data/vendor/sprd/applock(/.*)?  u:object_r:fp_file:s0
+/data/vendor/sprd/launchappdata(/.*)?  u:object_r:fp_launchapp_file:s0

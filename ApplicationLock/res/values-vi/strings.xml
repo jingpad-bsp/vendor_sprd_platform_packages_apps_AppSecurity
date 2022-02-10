@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Khóa ứng dụng"</string>
+<string name="select_all">"Khóa tất cả"</string>
+<string name="no_applications">"Đang tải, vui lòng đợi..."</string>
+<string name="cancle_select_all">"Mở khóa tất cả"</string>
+<string name="cancel">"Hủy"</string>
+<string name="okay">"OK"</string>
+<string name="enter_pwd">"Nhập mật khẩu/dấu vân tay""</string>
+<string name="identify_finger">"Vui lòng nhận dạng ngón tay"</string>
+<string name="label_fp_auth">"Xác thực dấu vân tay"</string>
+<string name="msg_input_new_password">"Nhập mật khẩu mới"</string>
+<string name="msg_confirm_password">"Xác nhận mật khẩu"</string>
+<string name="pw_warnning">"Nhập mật khẩu"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Thử lại sau <xliff:g id="NUMBER">%d</xliff:g> giây."</string>
+<string name="msg_pwd_length_invalid">"Độ dài mật khẩu ít nhất phải là 4"</string>
+<string name="msg_confirm_password_not_same">"Hai lần nhập mật khẩu không đồng nhất"</string>
+<string name="msg_password_is_wrong">"Mật khẩu nhập sai"</string>
+<string name="msg_finger_not_match">"Ngón tay không tương khớp, vui lòng thử lại."</string>
+<string name="msg_password">Mật khẩu</string>
+<string name="msg_wrong_pin">"Mã PIN sai"</string>
+<string name="msg_wrong_pattern">"Hình sai"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> đã bị khóa"</string>
+<string name="msg_password_too_long">"Mật khẩu phải dưới <xliff:g id="number" example="17">%d</xliff:g> ký tự."</string>
+<string name="msg_pin_too_long">"Mã PIN phải dưới <xliff:g id="number" example="17">%d</xliff:g> chữ số."</string>
+<string name="msg_finger_info_is_error">"Thông tin ngón tay bị trống, hoạt động mở bị lỗi!"</string>
+<string name="msg_select_app_first">"Trước tiên hãy chọn ỨNG DỤNG."</string>
+<string name="pref_title_launch_app_info">"Khởi chạy ứng dụng"</string>
+<string name="pref_summary_launch_app_name">"Tên ứng dụng: "</string>
+<string name="select_application_launchapp">"Hãy chọn ứng dụng"</string>
+<string name="pref_title_app_launch_settings">"Cài đặt khởi chạy ứng dụng"</string>
+<string name="pref_title_app_launch">"Khởi chạy ứng dụng"</string>
+<string name="pref_summary_app_launch_on">"BẬT khởi chạy ứng dụng"</string>
+<string name="pref_summary_app_launch_off">"TẮT khởi chạy ứng dụng"</string>
+<string name="app_clone_name">"Bản sao <xliff:g id="STRING">%1$s</xliff:g>"</string>
+</resources>

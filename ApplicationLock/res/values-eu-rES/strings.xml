@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Aplikazioen blokeoa"</string>
+<string name="select_all">"Blokeatu guztiak"</string>
+<string name="no_applications">Kargatzen, itxaron mesedez…</string>
+<string name="cancle_select_all">"Desblokeatu guztiak"</string>
+<string name="cancel">Utzi</string>
+<string name="okay">Ados</string>
+<string name="enter_pwd">"Sartu hatz-marka/pasahitza"</string>
+<string name="identify_finger">"Identifikatu hatza"</string>
+<string name="label_fp_auth">"Hatz-marka autentifikatzea"</string>
+<string name="msg_input_new_password">"Sartu pasahitz berria"</string>
+<string name="msg_confirm_password">"Pasahitza baieztatu"</string>
+<string name="pw_warnning">"Sartu pasahitza"</string>
+<string name="fp_too_many_failed_attempts_countdown">Berriz saiatu<xliff:g id="number">%d</xliff:g> segundo barru.</string>
+<string name="msg_pwd_length_invalid">"Pasahitzak gutxienez 4 izan behar ditu"</string>
+<string name="msg_confirm_password_not_same">"Idatzitako bi pasahitzak ez datoz bat"</string>
+<string name="msg_password_is_wrong">"Idatzitako pasahitza okerra da"</string>
+<string name="msg_finger_not_match">"Hatzak ez datoz bat, saiatu berriro."</string>
+<string name="msg_password">Pasahitza</string>
+<string name="msg_wrong_pin">Pin okerra</string>
+<string name="msg_wrong_pattern">Patroi okerra</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> blokeatu da"</string>
+<string name="msg_password_too_long">Pasahitza <xliff:g id="number" example="17">%d</xliff:g> baino karaketere gutxiago izan behar ditu.</string>
+<string name="msg_pin_too_long">PINak <xliff:g id="number" example="17">%d</xliff:g> zifra baino gutxiago izan behar ditu.</string>
+<string name="msg_finger_info_is_error">"Hatz informazioa nulua da, jarduera irekiak huts egin du!"</string>
+<string name="msg_select_app_first">"Hautatu APP lehenik."</string>
+<string name="pref_title_launch_app_info">"Abiarazi aplikazioa"</string>
+<string name="pref_summary_launch_app_name">"Aplikazioaren izena:"</string>
+<string name="select_application_launchapp">"Hautatu aplikazioa"</string>
+<string name="pref_title_app_launch_settings">"Aplikazioa abiarazteko ezarpena"</string>
+<string name="pref_title_app_launch">"Aplikazio abiarazpena"</string>
+<string name="pref_summary_app_launch_on">"Aplikazio abiarazpena AKTIBATUTA"</string>
+<string name="pref_summary_app_launch_off">"Aplikazio abiarazpena DESAKTIBATUTA"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g> Klonatu"</string>
+</resources>

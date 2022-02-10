@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"قفل برنامه"</string>
+<string name="select_all">"قفل کردن همه"</string>
+<string name="no_applications">"بارگذاری، لطفاً صبر کنید..."</string>
+<string name="cancle_select_all">"باز کردن قفل همه"</string>
+<string name="cancel">انصراف</string>
+<string name="okay">تایید</string>
+<string name="enter_pwd">"اثر انگشت/رمز عبور را وارد کنید"</string>
+<string name="identify_finger">"لطفاً انگشت را شناسایی کنید"</string>
+<string name="label_fp_auth">"احراز هویت اثر انگشت"</string>
+<string name="msg_input_new_password">"رمز عبور جدید را وارد کنید"</string>
+<string name="msg_confirm_password">"رمز عبور را تأیید کنید"</string>
+<string name="pw_warnning">"رمز عبور را وارد کنید"</string>
+<string name="fp_too_many_failed_attempts_countdown">"پس از <xliff:g id="NUMBER">%d</xliff:g> ثانیه دوباره امتحان کنید."</string>
+<string name="msg_pwd_length_invalid">"طول رمز عبور باید حداقل ۴ باشد"</string>
+<string name="msg_confirm_password_not_same">"دو رمز عبور وارد شده مشابه نیستند"</string>
+<string name="msg_password_is_wrong">"رمز عبور وارد شده اشتباه است"</string>
+<string name="msg_finger_not_match">"انگشت مطابقت ندارد، لطفاً دوباره امتحان کنید."</string>
+<string name="msg_password">"گذرواژه"</string>
+<string name="msg_wrong_pin">"پین اشتباه"</string>
+<string name="msg_wrong_pattern">"الگوی اشتباه"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">‪‎%1$s‬</xliff:g> قفل شده است"</string>
+<string name="msg_password_too_long">"رمز عبور باید کمتر از <xliff:g id="number" example="17">%d</xliff:g> کاراکتر باشد."</string>
+<string name="msg_pin_too_long">"پین باید کمتر از <xliff:g id="number" example="17">‪‎%d‬</xliff:g> رقم باشد."</string>
+<string name="msg_finger_info_is_error">"اطلاعات انگشت خالی است، فعالیت بازگشایی ناموفق بود!"</string>
+<string name="msg_select_app_first">"لطفاً اول برنامه را انتخاب کنید."</string>
+<string name="pref_title_launch_app_info">"راه‌اندازی برنامه"</string>
+<string name="pref_summary_launch_app_name">"نام برنامه:"</string>
+<string name="select_application_launchapp">"لطفاً برنامه را انتخاب کنید"</string>
+<string name="pref_title_app_launch_settings">"تنظیم راه‌اندازی برنامه"</string>
+<string name="pref_title_app_launch">"راه‌اندازی برنامه"</string>
+<string name="pref_summary_app_launch_on">"روشن بودن راه‌اندازی برنامه"</string>
+<string name="pref_summary_app_launch_off">"خاموش بودن راه‌اندازی برنامه"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">‪‎%1$s‬</xliff:g>شبیه‌سازی"</string>
+</resources>

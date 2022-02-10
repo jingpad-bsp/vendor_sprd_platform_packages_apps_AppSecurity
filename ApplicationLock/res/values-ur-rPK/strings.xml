@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"اپلی کیشن تالا"</string>
+<string name="select_all">"سبھی کو لاک کریں"</string>
+<string name="no_applications">"کوئی بھی اطلاقات نہیں"</string>
+<string name="cancle_select_all">"سبھی کو کھولیں"</string>
+<string name="cancel">"منسوخ کریں"</string>
+<string name="okay">"ٹھیک ہے"</string>
+<string name="enter_pwd">"داخل کریں فنگرپرنٹ / پاس ورڈ"</string>
+<string name="identify_finger">"براہ مہربانی انگلی کی شناخت کریں"</string>
+<string name="label_fp_auth">"فنگر پرنٹ کی توثیق"</string>
+<string name="msg_input_new_password">" نیا پاس ورڈ داخل کریں"</string>
+<string name="msg_confirm_password">"پاس ورڈ کی توثیق کریں"</string>
+<string name="pw_warnning">" پاس ورڈ داخل کریں"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g> سیکنڈ میں دوبارہ کوشش کریں۔"</string>
+<string name="msg_pwd_length_invalid">"پاس ورڈ میں 4 سے زیادہ حروف ہونے چاہیے، براہ مہربانی ایک بار پھر داخل کریں."</string>
+<string name="msg_confirm_password_not_same">"دو بار داخل کیا گیا پاس ورڈ ایک جیسا نہیں ہے"</string>
+<string name="msg_password_is_wrong">"داخل کیا گیا پاس ورڈ غلط ہے"</string>
+<string name="msg_finger_not_match">"انگلی میل نہیں کھاتی، دوبارہ کوشش کریں."</string>
+<string name="msg_finger_info_is_error">"انگلی کی معلومات خالی ہے، موجودہ سرگرمی ناکام ہوگئی!"</string>
+<string name="msg_select_app_first">"سب سے پہلے ایپ منتخب کیجیے."</string>
+<string name="pref_title_launch_app_info">"ایپلی کیشن شروع کریں"</string>
+<string name="pref_summary_launch_app_name">"اپلی کیشن کا نام:"</string>
+<string name="select_application_launchapp">" براہ مہربانی ایپلی کیشن منتخب کریں"</string>
+<string name="pref_title_app_launch_settings">"ایپ شروع کرنے کی ترتیب"</string>
+<string name="pref_title_app_launch">"ایپلی کیشن شروع کرنا"</string>
+<string name="pref_summary_app_launch_on">"ایپلی کیشن کی شروعات ہو گئی "</string>
+<string name="pref_summary_app_launch_off">"ایپلی کیشن کی شروعات بند ہو گئی "</string>
+<string name="msg_password">"پاس ورڈ"</string>
+<string name="msg_wrong_pin">"‏غلط PIN"</string>
+<string name="msg_wrong_pattern">"غلط پیٹرن"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> لاک ہوگیا ہے"</string>
+<string name="msg_password_too_long">" پاس ورڈ کا سے کم ہونا لازمی <xliff:g id="number" example="17">%d</xliff:g> حروف کا"</string>
+<string name="msg_pin_too_long">"PIN کا سے کم ہونا لازمی <xliff:g id="number" example="17">%d</xliff:g> حروف کا"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>کلون"</string>
+</resources>

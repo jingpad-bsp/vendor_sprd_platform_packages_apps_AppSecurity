@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Bloquear app"</string>
+<string name="select_all">"Bloquear todas"</string>
+<string name="no_applications">"A carregar. Aguarde..."</string>
+<string name="cancle_select_all">"Desbloquear todas"</string>
+<string name="cancel">Cancelar</string>
+<string name="okay">OK</string>
+<string name="enter_pwd">"Usar a impressão digital/palavra-passe"</string>
+<string name="identify_finger">"Identifique o dedo"</string>
+<string name="label_fp_auth">"Autenticação da impressão digital"</string>
+<string name="msg_input_new_password">"Introduzir palavra-passe nova"</string>
+<string name="msg_confirm_password">"Confirmar palavra-passe"</string>
+<string name="pw_warnning">"Introduzir palavra-passe"</string>
+<string name="fp_too_many_failed_attempts_countdown">"Tente novamente dentro de <xliff:g id="NUMBER">%d</xliff:g> segundos."</string>
+<string name="msg_pwd_length_invalid">"A palavra-passe tem de possuir, pelo menos, 4 carateres"</string>
+<string name="msg_confirm_password_not_same">"As palavras-passe não coincidem"</string>
+<string name="msg_password_is_wrong">"A palavra-passe introduzida está incorreta"</string>
+<string name="msg_finger_not_match">"Impressão incorreta, volte a tentar."</string>
+<string name="msg_password">"Palavra-passe"</string>
+<string name="msg_wrong_pin">"PIN incorreto"</string>
+<string name="msg_wrong_pattern">"Sequência incorreta"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> foi bloqueado"</string>
+<string name="msg_password_too_long">"A palavra-passe tem de ter menos de <xliff:g id="number" example="17">%d</xliff:g> carateres."</string>
+<string name="msg_pin_too_long">"O PIN tem de ter menos de <xliff:g id="number" example="17">%d</xliff:g> dígitos."</string>
+<string name="msg_finger_info_is_error">"A informação sobre o dedo não tem validade, falha ao abrir a atividade!"</string>
+<string name="msg_select_app_first">"Selecione a app primeiro."</string>
+<string name="pref_title_launch_app_info">"Iniciar a aplicação"</string>
+<string name="pref_summary_launch_app_name">"Nome da app: "</string>
+<string name="select_application_launchapp">"Selecione a aplicação"</string>
+<string name="pref_title_app_launch_settings">"Definição de início da aplicação"</string>
+<string name="pref_title_app_launch">"Início da aplicação"</string>
+<string name="pref_summary_app_launch_on">"Início da aplicação LIG."</string>
+<string name="pref_summary_app_launch_off">"Início da aplicação DESL."</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>Clone"</string>
+</resources>

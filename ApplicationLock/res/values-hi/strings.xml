@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"एप्प लॉक"</string>
+<string name="select_all">"सभी को लॉक करदें"</string>
+<string name="no_applications">"कोई ऐप्स नहीं."</string>
+<string name="cancle_select_all">"सभी को अनलॉक करदें"</string>
+<string name="cancel">निरस्त करें</string>
+<string name="okay">ठीक है</string>
+<string name="enter_pwd">"फ़िंगरप्रिंट / पासवर्ड डालें"</string>
+<string name="identify_finger">"कृपया उंगली की पहचान करें"</string>
+<string name="label_fp_auth">"फ़िंगरप्रिंट प्रमाणीकृत करें"</string>
+<string name="msg_input_new_password">"नया पासवर्ड डालें"</string>
+<string name="msg_confirm_password">"पासवर्ड की पुष्टि करें"</string>
+<string name="pw_warnning">"पासवर्ड डालें"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="NUMBER">%d</xliff:g> सेकंड में पुन: प्रयास करें."</string>
+<string name="msg_pwd_length_invalid">"पासवर्ड की लंबाई 4 से अधिक होनी चाहिए, कृपया दोबारा डालें।"</string>
+<string name="msg_confirm_password_not_same">"दोबारा डाला गया पासवर्ड भिन्न है"</string>
+<string name="msg_password_is_wrong">"इनपुट पासवर्ड गलत है"</string>
+<string name="msg_finger_not_match">"फिंगर मेल नहीं खाती, कृपया फिर से प्रयास करें।"</string>
+<string name="msg_password">"पासवर्ड"</string>
+<string name="msg_wrong_pin">"गलत पिन"</string>
+<string name="msg_wrong_pattern">"गलत पैटर्न"</string>
+<string name="msg_app_locked">"<xliff:g id="STRING">%1$s</xliff:g> लॉक हो गया है"</string>
+<string name="msg_password_too_long">"पासवर्ड में <xliff:g id="number" example="17">%d</xliff:g> से कम वर्ण होने चाहिए."</string>
+<string name="msg_pin_too_long">"पिन में <xliff:g id="number" example="17">%d</xliff:g> से कम अंक होने चाहिए."</string>
+<string name="msg_finger_info_is_error">"उंगली की जानकारी शून्य है, खुली गतिविधि विफल हो गई है!"</string>
+<string name="msg_select_app_first">"कृपया पहले एपीपी चुनें।"</string>
+<string name="pref_title_launch_app_info">"एप्लिकेशन लॉन्च करें"</string>
+<string name="pref_summary_launch_app_name">"एप्लिकेशन का नाम: "</string>
+<string name="select_application_launchapp">"कृपया एप्लीकेशन का चयन करें"</string>
+<string name="pref_title_app_launch_settings">"ऐप लॉन्च सेटिंग"</string>
+<string name="pref_title_app_launch">"एप्लिकेशन लॉन्च"</string>
+<string name="pref_summary_app_launch_on">"एप्लिकेशन लॉन्च चालू"</string>
+<string name="pref_summary_app_launch_off">"एप्लिकेशन लॉन्च बंद"</string>
+<string name="app_clone_name">"<xliff:g id="STRING">%1$s</xliff:g>प्रतिकृति"</string>
+</resources>

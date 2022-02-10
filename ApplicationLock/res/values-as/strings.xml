@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"এপ্প লক"</string>
+<string name="select_all">"আটাইবোৰ লক কৰক"</string>
+<string name="no_applications">"কোনো এপ্প নাই"</string>
+<string name="cancle_select_all">"আটাইবোৰ আনলক কৰক"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="okay">"ঠিক আছে"</string>
+<string name="enter_pwd">"ফিংগাৰপ্ৰিণ্ট/পাছৱৰ্ড অন্তৰ্ভুক্ত কৰক"</string>
+<string name="identify_finger">"অনুগ্ৰহ কৰি ফিংগাৰ চিনাক্ত কৰক"</string>
+<string name="label_fp_auth">"ফিংগাৰপ্ৰিণ্ট বৈধ"</string>
+<string name="msg_input_new_password">"নতুন পাছৱৰ্ড অন্তৰ্ভুক্ত কৰক"</string>
+<string name="msg_confirm_password">"পাছৱৰ্ড নিশ্চিত কৰক"</string>
+<string name="pw_warnning">"পাছৱৰ্ড অন্তৰ্ভুক্ত কৰক"</string>
+<string name="fp_too_many_failed_attempts_countdown">"<xliff:g id="number">%d</xliff:g>ছেকেণ্ডৰ ভিতৰত পুনৰ চেষ্টা কৰক."</string>
+<string name="msg_pwd_length_invalid">"পাছৱৰ্ডৰ দৈৰ্ঘ্য অৱশ্যেই 4 তকৈ অধিক হ’ব লাগিব, অনুগ্ৰহ কৰি পুনৰ অন্তৰ্ভুক্ত কৰক৷"</string>
+<string name="msg_confirm_password_not_same">"পাছৱৰ্ড দুবাৰ অন্তৰ্ভুক্ত কৰক, অন্তৰ্ভুক্ত কৰা পাছৱৰ্ড মিলা নাই"</string>
+<string name="msg_password_is_wrong">"অন্তৰ্ভুক্ত কৰা পাছৱৰ্ডটো ভুল"</string>
+<string name="msg_finger_not_match">"আঙুলি মিলা নাই, অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক৷"</string>
+<string name="msg_finger_info_is_error">"ফিংগাৰ তথ্য অবৈধ, খোলা কাৰ্যাৱলী ব্যৰ্থ হৈছে!"</string>
+<string name="msg_select_app_first">"অনুগ্ৰহ কৰি প্ৰথমে এপ্প বাচনি কৰক৷"</string>
+<string name="pref_title_launch_app_info">"এপ্লিকেশ্যনটো মুকলি কৰক"</string>
+<string name="pref_summary_launch_app_name">"এপ্পৰ নাম: "</string>
+<string name="select_application_launchapp">"অনুগ্ৰহ কৰি এপ্লিকেশ্যন বাচনি কৰক"</string>
+<string name="pref_title_app_launch_settings">"এপ্প লন্স ছেটিং"</string>
+<string name="pref_title_app_launch">"এপ্লিকেশ্যন লন্স"</string>
+<string name="pref_summary_app_launch_on">"এপ্লিকেশ্যন লন্স খোলা আছে"</string>
+<string name="pref_summary_app_launch_off">"এপ্লিকেশ্যন লন্স বন্ধ আছে"</string>
+</resources>

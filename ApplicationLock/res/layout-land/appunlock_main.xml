@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.internal.widget.LinearLayoutWithDefaultTouchRecepient
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topLayout"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- left side: instructions and messages -->
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+        <!-- header message -->
+        <TextView android:id="@+id/fullscreen_content"
+                  style="@android:style/TextAppearance.Material.Headline"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center|top"
+                  android:text="@string/enter_pwd"
+                  android:textColor="?android:attr/colorAccent"/>
+        <EditText android:id="@+id/password_txt"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginStart="120dp"
+                  android:layout_marginEnd="120dp"
+                  android:layout_gravity="center"
+                  android:inputType="textPassword"
+                  android:imeOptions="actionNext"
+                  android:textSize="20sp"
+                  style="@style/TextAppearance.PasswordEntry"/>
+        <LinearLayout
+                  android:id="@+id/linearLayout_fingerprint_icon"
+                  android:gravity="center"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="top|center_horizontal"
+                  android:orientation="vertical" >
+            <View
+                  android:layout_width="match_parent"
+                  android:layout_height="20dip" />
+            <ImageView
+                  android:id="@+id/iv_fingerprintIcon"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="center_horizontal"
+                  android:src="@drawable/ic_fingerprint"
+                  android:contentDescription="@string/identify_finger" />
+            <TextView
+                  android:id="@+id/label_fp_auth"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_gravity="center_horizontal"
+                  android:text="@string/label_fp_auth"
+                  android:textColor="?android:attr/colorAccent"
+                  android:textSize="16sp" />
+            <include
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_below="@id/fullscreen_content"
+                  android:layout_gravity="top"
+                  layout="@layout/applock_kg_message_area" />
+        </LinearLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1.0">
+            <LinearLayout
+                android:id="@+id/fullscreen_content_controls"
+                style="@style/SecurityPreferenceButtonContainer"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal">
+                <Button android:id="@+id/button_cancel"
+                    style="@style/SecurityPreferenceButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cancel"/>
+                <Button android:id="@+id/button_ok"
+                    style="@style/SecurityPreferenceButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/okay"/>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/onebuttonlayout"
+                style="@style/SecurityPreferenceButtonContainer"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal">
+                <Button android:id="@+id/button_cancel_only"
+                    style="@style/SecurityPreferenceOneButton"
+                    android:text="@string/cancel"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+         android:background="@*android:drawable/code_lock_left"
+         android:layout_width="2dip"
+         android:layout_height="match_parent" />
+
+    <!-- right side: lock pattern -->
+    <com.android.internal.widget.LockPatternView android:id="@+id/lockPattern"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@color/lock_pattern_background" />
+
+</com.android.internal.widget.LinearLayoutWithDefaultTouchRecepient>
